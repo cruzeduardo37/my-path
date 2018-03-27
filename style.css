@@ -1,0 +1,96 @@
+
+/* SECTION1 CSS */
+
+  .section1 {
+    /* background: lightgrey; */
+    background-image: url("portexample2.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:center;
+
+    padding:200px;
+    text-align:center;
+  }
+
+  .section1 h1 {
+    font-size:60px;
+    color:white;
+  }
+
+  .section1 p {
+    font-size:30px;
+    color:white;
+  }
+
+/* SECTION2 CSS */
+
+  .section2 {
+    background: lightblue;
+    padding:100px;
+    text-align:center;
+  }
+
+  .aboutHeading {
+    /* padding:40px; */
+    /* margin:0px; */
+    font-size: 50px;
+    margin-top:-40px;
+    color:white;
+  }
+
+  .aboutPar {
+    padding:60px;
+    font-size: 25px;
+    line-height: 60px;
+    color:white;
+  }
+
+/* SECTION3 CSS */
+
+  .section3 {
+    background: salmon;
+    /* padding:200px; */
+    text-align:center;
+  }
+
+  .section3 h2 {
+    padding:50px;
+    margin:0px;
+    font-size: 40px;
+  }
+
+  .projectsDes {
+    font-size:25px;
+  }
+
+  .projectImg {
+    padding:15px;
+  }
+
+  .iced {
+    margin-top:20px;
+    width:40%;
+    height:40%;
+  }
+
+  .playBuds {
+    width:70%;
+    height:70%;
+  }
+
+  .section3 p {
+    padding:10px;
+  }
+
+
+/* FOOTER CSS */
+
+  footer {
+    background:black;
+    padding:30px;
+  }
+
+  footer h3 {
+    margin:0px;
+    color:white;
+  }
